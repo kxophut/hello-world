@@ -1,2 +1,2 @@
 # hello-world
-I love Scala!
+I hate Scala!
